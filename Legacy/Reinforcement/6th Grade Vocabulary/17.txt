@@ -1,0 +1,1 @@
+ratio: how much of one thing there is compared to another median: the "middle" value in a group of numbers mean absolute deviation: average distance between each data point and the mean (average) coordinate plane: 2-dimensional plane with a y-axis (vertical) and x-axis (horizontal) and 4 quadrants
