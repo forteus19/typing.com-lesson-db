@@ -1,0 +1,4 @@
+A book citation generally requires the author's name, title, publisher, and the year it was published.
+De Bono, Edward. Six Thinking Hats. Little, Brown and Company, 1985.
+Lee, Harper. To Kill a Mockingbird. Harper & Row Publishers, Inc., 1960.
+Orwell, George. 1984. Harcourt, 1949.
